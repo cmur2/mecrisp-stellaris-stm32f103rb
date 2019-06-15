@@ -1,0 +1,2 @@
+
+SUBSYSTEM=="tty", ATTRS{product}=="STM32 STLink", SYMLINK+="ttyACM_stlink"
